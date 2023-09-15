@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\bin\Debug\REGISTRO.exe.config
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\bin\Debug\REGISTRO.exe
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\bin\Debug\REGISTRO.pdb
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.Form1.resources
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.Properties.Resources.resources
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.exe
+C:\Users\Alumno\Desktop\REGISTRO 2.0\REGISTRO\obj\Debug\REGISTRO.pdb
